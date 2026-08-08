@@ -5,7 +5,7 @@
 <p align="left">
   <img alt="Language" src="https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=openjdk&logoColor=white">
   <img alt="Status" src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square">
-  <img alt="Solved" src="https://img.shields.io/badge/Solved-2%20%2F%2010-blue?style=flat-square">
+  <img alt="Solved" src="https://img.shields.io/badge/Solved-7%20%2F%2010-blue?style=flat-square">
   <img alt="Course" src="https://img.shields.io/badge/Course-SRM%20STEP%20%C2%B7%20CodInClub-red?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square">
 </p>
@@ -26,11 +26,11 @@ Original problem statements are preserved in [`docs/`](docs/).
 
 | Week | Set | Problems | Solved | Folder |
 |:---:|---|:---:|:---:|---|
-| **1** | Assignment | 5 | 0 | [`week-01-assignment/`](week-01-assignment/) |
+| **1** | Assignment | 5 | **5** ✅ | [`week-01-assignment/`](week-01-assignment/) |
 | **2** | Day 2 Live-Coding Session | 5 | 2 | [`week-02-practice/`](week-02-practice/) |
 
 ```
-██████░░░░░░░░░░░░░░░░░░░░░░░░  2 / 10
+█████████████████████░░░░░░░░░  7 / 10
 ```
 
 ---
@@ -41,11 +41,11 @@ Arrays and string traversal, with an emphasis on tracking a running maximum and 
 
 | # | Problem | The task | Status |
 |:---:|---|---|:---:|
-| 1 | **Exam Hall Seat Duplication Checker** | Find duplicate seat numbers using nested loops only — no Collections | ⬜ |
-| 2 | **Typing Speed Test Accuracy Checker** | Compare two equal-length strings position by position; report accuracy % and the first mismatch | ⬜ |
-| 3 | **Traffic Signal Streak Analyzer** | Find the longest run of consecutive identical characters in a signal log | ⬜ |
-| 4 | **Warehouse Inventory Balancer** | Total two arrays, compare them, and locate the single highest value with its section and index | ⬜ |
-| 5 | **Movie Review Word Length Profiler** | Split a review and bucket each word as Short (1–4), Medium (5–8) or Long (9+) | ⬜ |
+| 1 | **Exam Hall Seat Duplication Checker** | Find duplicate seat numbers using nested loops only — no Collections | ✅ [Solution](week-01-assignment/solutions/ExamHallSeatChecker.java) |
+| 2 | **Typing Speed Test Accuracy Checker** | Compare two equal-length strings position by position; report accuracy % and the first mismatch | ✅ [Solution](week-01-assignment/solutions/TypingAccuracyChecker.java) |
+| 3 | **Traffic Signal Streak Analyzer** | Find the longest run of consecutive identical characters in a signal log | ✅ [Solution](week-01-assignment/solutions/TrafficSignalStreakAnalyzer.java) |
+| 4 | **Warehouse Inventory Balancer** | Total two arrays, compare them, and locate the single highest value with its section and index | ✅ [Solution](week-01-assignment/solutions/WarehouseInventoryBalancer.java) |
+| 5 | **Movie Review Word Length Profiler** | Split a review and bucket each word as Short (1–4), Medium (5–8) or Long (9+) | ✅ [Solution](week-01-assignment/solutions/MovieReviewWordProfiler.java) |
 
 ## Week 2 · Day 2 Live-Coding Session
 
